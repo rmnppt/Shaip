@@ -1,6 +1,7 @@
 # Shaip
 A childrens shape recognition game for iOS
 Three shapes of different colours appear along with some text indicating one of them.
+Feel free to download and run this in Xcode, any help is much appreciated.
 
 # The Game
 - If the player chooses the correct shape they score points and a new set of shapes appears.
